@@ -1,7 +1,2 @@
 node_modules/
-elm-stuff/
-dist/
-.cache/
-gen/
-
-.DS_Store
+package-lock.json
